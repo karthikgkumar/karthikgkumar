@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola,I'm Karthik G Kumar  👋
 
 
 - 🔭 I’m currently working on myself
