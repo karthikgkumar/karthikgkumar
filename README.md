@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with full stack dev tips
 - 💬 Ask me about Skills Python, Tkinter, pygame,HTML, javascript, bootstrap, CSS3,Express.js,handlebars,mongodb
-- 📫 How to reach me:[Twitter- @KARTHIKGKUMAR3](https://twitter.com/KARTHIKGKUMAR3)
+- 📫 How to reach me:[Twitter- @Karthik_G_Kumar](https://twitter.com/Karthik_G_Kumar)
 - 😄 Pronouns:he/his
 - ⚡ Fun fact: I spend 4 hours reading webtoons and novels daily
 -->
