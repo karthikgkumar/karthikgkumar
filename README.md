@@ -14,7 +14,7 @@ Here are some ideas to get you started:
  <p align="center">
  <!--<img src="https://komarev.com/ghpvc/?username=jaison080&color=brightgreen" alt="watching_count" />-->
 <img src="https://img.shields.io/badge/Age-20-blue" />
-  <img src="https://img.shields.io/badge/Lives-Angamaly-success" />
+  <img src="https://img.shields.io/badge/Lives-Palarivattom-success" />
    <img src="https://img.shields.io/badge/Focus-Data Science-blue" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />
 </p>
