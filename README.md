@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His***😊 <br>
-✔ I’m currently learning about **Deep Learning Concepts**🥰<br>
-✔ I’m looking to collaborate with any **Machine Learning and Deep Learning Projects**<br>
+✔ I’m currently researching on **Prompt Engineering in Evolving Cyber Physical Social System**🥰<br>
+✔ I’m looking to collaborate with any **AI Agent automation projects**<br>
 ✔ Ask me anything you want, If I am there I will answer within seconds 😉<br>
 ✔ Fun fact : *I always try to learn something new and then sleep till it stores in my brain* 😎<br><br><br><br>
 
