@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 <hr>
 <h1 align="center">Meet,Karthik G Kumar😎</h1>
-<h3 align="center">Data Scientist | Data Analyst | Coder</h3>
+<h3 align="center">Data Scientist | Researcher | Software Developer</h3>
 <p align="center">
 <!--<a href="https://www.hackerrank.com/jaison080" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_jaison_dennis" height="30" width="40" /></a>-->
 <a href="https://www.linkedin.com/in/karthik-g-kumar/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lin_karthikgkumar" height="30" width="40" /></a>  
